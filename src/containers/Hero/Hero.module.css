@@ -1,0 +1,118 @@
+/* Mobile styles */
+
+.Wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    padding: 16px 0;
+}
+
+.Image {
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+
+.Image::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.6) 100%);
+}
+
+.Image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.Header {
+    color: white;
+    font-size: 3.9rem;
+    margin: 0 16px 24px;
+    max-width: 300px;
+}
+
+.Paragraph {
+    color: white;
+    font-size: 1.6rem;
+    margin: 0 16px 10px;
+}
+
+/* Small tablets styles */
+
+@media (min-width: 620px) {
+    .Wrapper {
+        padding: 32px 0 16px;
+    }
+
+    .Header {
+        font-size: 4.2rem;
+    }
+}
+
+/* Tablets styles */
+
+@media (min-width: 805px) {
+    .Wrapper {
+        padding: 48px 0 16px;
+    }
+
+    .Header {
+        font-size: 4.8rem;
+        max-width: 360px;
+        margin: 0 36px 24px;
+    }
+    .Paragraph {
+        margin: 0 36px 10px; 
+    }
+}
+
+/* Small desktops and laptops */
+
+@media (min-width: 1024px) {
+    .Wrapper {
+        padding: 72px 0 16px;
+    }
+
+    .Header {
+        font-size: 5.2rem;
+        max-width: 390px;
+        margin: 0 36px 24px;
+
+    }
+
+    .Paragraph {
+        font-size: 1.8rem;
+        margin: 0 48px 10px; 
+    }
+}
+
+/* Desktops*/
+
+@media (min-width: 1420px) {
+    .Wrapper {
+        padding: 92px 0 16px;
+    }
+
+    .Header {
+        font-size: 6rem;
+        max-width: 460px;
+        margin: 0 64px 24px;
+
+    }
+
+    .Paragraph {
+        font-size: 1.8rem;
+        margin: 0 64px 10px; 
+    }
+}

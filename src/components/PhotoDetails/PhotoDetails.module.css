@@ -1,0 +1,39 @@
+.Container {
+    margin-bottom: 24px;
+}
+
+.Author {
+    font-size: 1.6rem;
+    margin: 0 0 12px;
+    text-align: center;
+}
+
+.Location {
+    font-size: 1.6rem;
+    font-style: italic;
+    text-align: center;
+    margin: 0 0 24px;
+}
+
+.Image {
+    position: relative;
+    max-height: 600px;
+  
+}
+
+.Image img {
+    display: block;
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+}
+
+/* Small tablets styles */
+
+@media (min-width: 620px) {
+    .Container {
+        padding: 0 16px;
+    }
+}
+

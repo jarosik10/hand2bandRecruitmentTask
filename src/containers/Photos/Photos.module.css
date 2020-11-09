@@ -1,0 +1,40 @@
+/* Mobile styles */
+.Wrapper {
+    padding: 16px 0;
+}
+
+.Masonry_grid {
+    display: flex;
+    width: auto;
+    gap: 16px;
+}
+
+.Masonry_grid__Column {
+    background-clip: padding-box;
+}
+
+.Photo_container {
+    margin-bottom: 16px;
+    line-height: 0;
+    cursor: zoom-in;
+}
+
+.Photo_container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.Message {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+/* Desktops*/
+
+@media (min-width: 1420px) {
+    .Masonry_grid {
+        max-width: 1420px;
+        margin: 0 auto;
+    }
+}
