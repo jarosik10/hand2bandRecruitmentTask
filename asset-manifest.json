@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hand2bandRecruitmentTask/static/css/main.5023f079.chunk.css",
+    "main.js": "/hand2bandRecruitmentTask/static/js/main.a0b6cc6d.chunk.js",
+    "main.js.map": "/hand2bandRecruitmentTask/static/js/main.a0b6cc6d.chunk.js.map",
+    "runtime-main.js": "/hand2bandRecruitmentTask/static/js/runtime-main.95bafbe3.js",
+    "runtime-main.js.map": "/hand2bandRecruitmentTask/static/js/runtime-main.95bafbe3.js.map",
+    "static/js/2.84db7f7b.chunk.js": "/hand2bandRecruitmentTask/static/js/2.84db7f7b.chunk.js",
+    "static/js/2.84db7f7b.chunk.js.map": "/hand2bandRecruitmentTask/static/js/2.84db7f7b.chunk.js.map",
+    "index.html": "/hand2bandRecruitmentTask/index.html",
+    "static/css/main.5023f079.chunk.css.map": "/hand2bandRecruitmentTask/static/css/main.5023f079.chunk.css.map",
+    "static/js/2.84db7f7b.chunk.js.LICENSE.txt": "/hand2bandRecruitmentTask/static/js/2.84db7f7b.chunk.js.LICENSE.txt",
+    "static/media/cherry-blossom_1280.ca9a61be.jpg": "/hand2bandRecruitmentTask/static/media/cherry-blossom_1280.ca9a61be.jpg",
+    "static/media/cherry-blossom_1920.ece8d454.jpg": "/hand2bandRecruitmentTask/static/media/cherry-blossom_1920.ece8d454.jpg",
+    "static/media/cherry-blossom_640.e835bd31.jpg": "/hand2bandRecruitmentTask/static/media/cherry-blossom_640.e835bd31.jpg",
+    "static/media/iconmonstr-magnifier.f38bc1fe.svg": "/hand2bandRecruitmentTask/static/media/iconmonstr-magnifier.f38bc1fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bafbe3.js",
+    "static/js/2.84db7f7b.chunk.js",
+    "static/css/main.5023f079.chunk.css",
+    "static/js/main.a0b6cc6d.chunk.js"
+  ]
+}
