@@ -6,7 +6,6 @@ import Hero from './containers/Hero/Hero';
 import Photos from './containers/Photos/Photos';
 
 function App() {
-
   return (
     <Switch>
       <Route path="/photos" render={(props) => <Store><Photos {...props}/></Store>} />
