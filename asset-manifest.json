@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hand2bandRecruitmentTask/static/css/main.5023f079.chunk.css",
-    "main.js": "/hand2bandRecruitmentTask/static/js/main.8c42db12.chunk.js",
-    "main.js.map": "/hand2bandRecruitmentTask/static/js/main.8c42db12.chunk.js.map",
+    "main.js": "/hand2bandRecruitmentTask/static/js/main.d84854e4.chunk.js",
+    "main.js.map": "/hand2bandRecruitmentTask/static/js/main.d84854e4.chunk.js.map",
     "runtime-main.js": "/hand2bandRecruitmentTask/static/js/runtime-main.95bafbe3.js",
     "runtime-main.js.map": "/hand2bandRecruitmentTask/static/js/runtime-main.95bafbe3.js.map",
     "static/js/2.7d78cce5.chunk.js": "/hand2bandRecruitmentTask/static/js/2.7d78cce5.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.95bafbe3.js",
     "static/js/2.7d78cce5.chunk.js",
     "static/css/main.5023f079.chunk.css",
-    "static/js/main.8c42db12.chunk.js"
+    "static/js/main.d84854e4.chunk.js"
   ]
 }
